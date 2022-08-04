@@ -1,6 +1,6 @@
 #!/system/bin/sh
 
-module_path=/vendor/lib/1.1/modules
+module_path=/vendor/lib/modules/1.1/
 
 # Load all needed modules
 insmod $module_path/bu520xx_pen.ko
